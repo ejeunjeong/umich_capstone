@@ -3,7 +3,8 @@
 - Investigate the use of generative models that do noe require fine-tuning: We will explore the use of generative models that do not require fine-tuning to summarize reviews. We will compare the performance of these models with the fine-tuned Korean Language model and assess their effectiveness.
 
 ## Data Description
-- data: Amazon review data separated into train and test
+- Amazon review data separated into train and test
+- fewshot_examples.csv is a set of examples created specifically for few-shot learning.
 
 Below is the origin source of the dataset. 
 https://snap.stanford.edu/data/web-Amazon.html
