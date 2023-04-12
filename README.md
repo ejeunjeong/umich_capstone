@@ -2,7 +2,12 @@
 - Investigate the effectiveness of using a pre-trained model in a different language to perform a task in English: Especially, we will examine whether a Korean Language pre-trained model can be fine-tuned to summarize English reviews effectively.
 - Investigate the use of generative models that do noe require fine-tuning: We will explore the use of generative models that do not require fine-tuning to summarize reviews. We will compare the performance of these models with the fine-tuned Korean Language model and assess their effectiveness.
 
-## Code Description
+## Data Description
 - data: Amazon review data separated into train and test
+Below is the origin source of the dataset. 
+https://snap.stanford.edu/data/web-Amazon.html
+
+## Code Description 
+Most of our code is written in Jupyter Notebook, and you can run the code by executing each cell.
 - modeling: Using KoBART and ChatGPT for review summarizaiton 
 - evaluation: Evaluation results using BELU and ROUGE 
