@@ -13,3 +13,4 @@ https://snap.stanford.edu/data/web-Amazon.html
 Most of our code is written in Jupyter Notebook, and you can run the code by executing each cell.
 - modeling: Using KoBART and ChatGPT for review summarizaiton 
 - evaluation: Evaluation results using BELU and ROUGE 
+We did not utilize any code from an open source project, therefore we are not required to include licenses for in-line code attributions.
